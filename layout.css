@@ -1,0 +1,46 @@
+body
+{   color:white;
+	
+	background: linear-gradient(to left, #FF5F6D , #FFC371);
+}
+
+#b
+{   font-family: 'Tangerine', cursive;
+	font-size: 50px;
+	text-align:center;
+	font-weight: 700px;
+	
+}
+
+.e
+{   margin-top: 10px;
+	font-family: 'Tangerine', cursive;
+	color:#fd746c;
+	background: white;
+	font-size: 30px;
+	border-radius: 5px;
+	height: 40px;
+	width:115px;
+	font-weight: 700;
+	text-align: left;
+}
+
+.c
+{   position:relative;
+	top:0;
+	left:0;
+    font-size:50px;
+	color:#fd746c;
+    background: linear-gradient(to left, #fd746c , #ff9068);
+	border-radius: 10px;
+	height:100px;
+	width:100px;
+	margin:10px;
+    padding: 10px;
+}
+
+#q
+{
+	margin:0px 200px 10px 400px;
+}
+

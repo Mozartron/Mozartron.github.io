@@ -1,0 +1,17 @@
+body
+{   color:#FFF;
+	
+	background: linear-gradient(to left, #24C6DC , #514A9D);
+}
+
+
+#b
+{   font-family: 'Tangerine', cursive; 
+	text-align:center;
+	font-size: 30px;
+	font-weight:500;
+	
+}
+
+a
+{color:white;}
